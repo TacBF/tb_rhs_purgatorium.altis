@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Purgatorium">
+
+	<Key ID="STR_TB_missionTitle_TB_Purgatorium">
+		<Original>Purgatorium</Original>
+		<English>Purgatorium</English>
+		<German>Purgatorium</German>
+		<Italian>Purgatorium</Italian>
+		<Spanish>Purgatorium</Spanish>
+		<French>Purgatorium</French>
+		<Czech>Purgatorium</Czech>
+		<Russian>Purgatorium</Russian>
+		<Polish>Purgatorium</Polish>
+		<Hungarian>Purgatorium</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Purgatorium">
+		<Original>TacBF A&amp;S[T-10]: Purgatorium</Original>
+		<English>TacBF A&amp;S[T-10]: Purgatorium</English>
+		<German>TacBF A&amp;S[T-10]: Purgatorium</German>
+		<Italian>TacBF A&amp;S[T-10]: Purgatorium</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Purgatorium</Spanish>
+		<French>TacBF A&amp;S[T-10]: Purgatorium</French>
+		<Czech>TacBF A&amp;S[T-10]: Purgatorium</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Purgatorium</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Purgatorium</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Purgatorium</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
